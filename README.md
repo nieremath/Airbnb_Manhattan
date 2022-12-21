@@ -12,3 +12,13 @@ This project gives suggestions on how airbnb can improve in Manhattan based on r
 Data is from [InsideAirbnb](http://insideairbnb.com/get-the-data/) 
 This include over 35,000+ rows and 70+ columns of data
 
+## Tools
+SQL was used for data exploration and for querying text reviews using terms associated with dirty conditions.
+Python was used to extracted the necessary rows and columns and create a dataframe. Dataframe was then exported to a CSV. In addition, Python was used to calculate the correlation between review categories and overall review scores. 
+Tableau was used for visualizations. 
+
+## Findings
+1. In NYC, Manhattan has the most Airbnb units. 
+2. Value, Accuracy and Cleanliness is most correlated with the overall guest score.
+3. There are over 600 Airbnb units that state they are located in NYC but are actually located in New Jersey.
+4. Found Airbnb host who have over 20 units and were below the average cleanliness score
