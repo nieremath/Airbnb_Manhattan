@@ -14,7 +14,7 @@ This include over 35,000+ rows and 70+ columns of data
 
 ## Tools
 SQL was used for data exploration and for querying text reviews using terms associated with dirty conditions. See example SQL below:
-![dirty comments](https://user-images.githubusercontent.com/105595931/208982770-4661d6bb-c5e6-49e8-b5b9-165675f202bb.JPG)
+<br> ![dirty comments](https://user-images.githubusercontent.com/105595931/208982770-4661d6bb-c5e6-49e8-b5b9-165675f202bb.JPG)
 
 <br>Python was used to extracted the necessary rows and columns and create a dataframe. Dataframe was then exported to a CSV. In addition, Python was used to calculate the correlation between review categories and overall review scores. 
 <br>Tableau was used for visualizations. 
